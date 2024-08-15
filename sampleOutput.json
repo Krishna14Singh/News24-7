@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+      {
+        "source": {
+          "id": "le-monde",
+          "name": "Le Monde"
+        },
+        "author": "Le Monde",
+        "title": "Transports publics : tirer les leçons du sans-faute des JO",
+        "description": "Les millions d’usagers quotidiens des transports franciliens ont le droit de bénéficier du même traitement dans les transports que les spectateurs des Jeux olympiques. Ces deux semaines de bus, métro et trains pratiques et ponctuels ne peuvent pas rester sans…",
+        "url": "https://www.lemonde.fr/sport/article/2024/08/10/transports-publics-tirer-les-lecons-du-sans-faute-des-jo_6275186_3242.html",
+        "urlToImage": "https://img.lemde.fr/2024/07/23/0/4/5056/3371/1440/960/60/0/f7f495a_2024-07-23t193721z-1026847389-rc2719ahz8cu-rtrmadp-3-olympics-2024-paris.JPG",
+        "publishedAt": "2024-08-10T09:30:07Z",
+        "content": "Des trains et des métros fréquents et à lheure, des incidents rares et vite traités, un personnel en nombre pour informer, accompagner 4 millions dusagers quotidiens Les Franciliens nont pas reconnu … [+3380 chars]"
+      },
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Golden Girls",
+        "description": "In conjunction with the increase of professional women's sports in Canada, Donnovan Bennett examines why female athletes have once again represented Team Canada well on the podium in Paris.",
+        "url": "http://www.cbc.ca/player/play/video/9.6477670",
+        "urlToImage": "https://i.cbc.ca/ais/e74a422b-1f95-43cb-a658-8199502ad4a1,1723276644264/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1919%2C1079%29%3BResize%3D%281180%29",
+        "publishedAt": "2024-08-10T09:22:13.1671731Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Watch Canadians compete in Olympic canoe & kayak finals | CBC Sports",
+        "description": "Canadians will try and paddle to more Olympic medals on Saturday at Paris 2024. Watch live coverage beginning at 4:30 a.m. ET.",
+        "url": "http://www.cbc.ca/sports/olympics/summer/canoe-kayak/womens-canoe-sprint-august-10-1.7290907",
+        "urlToImage": "https://i.cbc.ca/1.7289833.1723209119!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/oly-canoe-20240809.JPG",
+        "publishedAt": "2024-08-10T08:07:16.8867822Z",
+        "content": "Click on the video player above beginning on Saturday at 4:30 a.m. ET to watch live Olympic canoe and kayak competition from Paris 2024.\r\nAthletes are on the water beginning at 4:30 a.m. ET when the … [+667 chars]"
+      },
+      {
+        "source": {
+          "id": "cbc-news",
+          "name": "CBC News"
+        },
+        "author": "CBC News",
+        "title": "Olympic newsletter: De Grasse and friends shock the world, plus who might win Canada's next gold | CBC Sports",
+        "description": "Andre De Grasse and the Canadian men's relay team pulled off a stunning victory to help Canada match its medal record on Friday. Now, who might break it on Saturday?",
+        "url": "http://www.cbc.ca/sports/olympics/summer/the-buzzer-olympic-newsletter-day-14-1.7291030",
+        "urlToImage": "https://i.cbc.ca/1.7291032.1723249323!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/2165533785.jpg",
+        "publishedAt": "2024-08-10T05:07:18.2455316Z",
+        "content": "This is an excerpt from CBC Sports' daily newsletter, The Buzzer. Subscribe here to get the latest on the Paris Olympics in your inbox every day.\r\nWe all loved Saturday nights in Georgia. And now, Fr… [+12432 chars]"
+      },
+      {
+        "source": {
+          "id": "nbc-news",
+          "name": "NBC News"
+        },
+        "author": "The Associated Press",
+        "title": "Bookie pleads guilty to running illegal gambling business used by ex-Ohtani interpreter",
+        "description": "A Southern California bookmaker who took thousands of sports bets from the former interpreter for baseball star Shohei Ohtani pleaded guilty Friday to running an illegal gambling business.",
+        "url": "https://www.nbcnews.com/news/us-news/bookie-pleads-guilty-running-illegal-gambling-business-used-ex-ohtani-rcna166050",
+        "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-08/240809-matthew-bowyer-ac-634p-c87925.jpg",
+        "publishedAt": "2024-08-09T23:29:55Z",
+        "content": "SANTA ANA, Calif. A Southern California bookmaker who took thousands of sports bets from the former interpreter for baseball star Shohei Ohtani pleaded guilty Friday to running an illegal gambling bu… [+2708 chars]"
+      },
+      {
+        "source": {
+          "id": "gruenderszene",
+          "name": "Gruenderszene"
+        },
+        "author": null,
+        "title": "Volocopter wollte Athleten bei Olympia durch Paris fliegen – doch es kam anders",
+        "description": "Es sollte eine globale PR-Aktion werden: Volocopter wollte bei Olympia Athleten zu den Sportstätten fliegen. Dann kam die Ernüchterung.",
+        "url": "https://www.businessinsider.de/gruenderszene/technologie/volocopter-sollte-bei-olympia-athleten-im-flugtaxi-chauffieren-das-klappte-nicht/",
+        "urlToImage": "https://cdn.businessinsider.de/wp-content/uploads/2024/08/Volocopter-scaled.jpg?ver=1723187497",
+        "publishedAt": "2024-08-09T11:51:03+00:00",
+        "content": "Es sollte ein globaler PR-Stunt werden: Lange kündigte Volocopter an, bei Olympia Athleten per Flugtaxi zu den Sportstätten zu bringen. Übrig bleibt (fast) nur Ernüchterung.Es hätte der Triumph des F… [+3020 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-sports",
+          "name": "Fox Sports"
+        },
+        "author": "John Fanta, Michael Cohen",
+        "title": "College basketball roundtable: Michigan State's tourney streak, top transfers and more",
+        "description": "Is Michigan State's NCAA Tournament streak in jeopardy? Who is the top transfer in the nation? FOX Sports' college basketball experts answer that and more.",
+        "url": "http://www.foxsports.com/stories/college-basketball/college-basketball-roundtable-michigan-states-tourney-streak-top-transfers-and-more",
+        "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2024/02/1408/814/2024-02-29_College-Basketball-Roundtable_16x9.jpg?ve=1&tl=1",
+        "publishedAt": "2024-02-29T20:59:30Z",
+        "content": "It's almost time, ladies and gentlemen!\r\nThat long-awaited, fun-filled day when you wait to hear your team's name called before breaking out a pen and paper to fill out your NCAA Tournament bracket i… [+17577 chars]"
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": "New Micah Parsons Show ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/490566-the-edge-w-micah-parsons-ep-11-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.6381564Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "bleacher-report",
+          "name": "Bleacher Report"
+        },
+        "author": null,
+        "title": " Mikal Bridges Interview ",
+        "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+        "url": "https://bleacherreport.com/videos/491103-taylor-rooks-x-mikal-bridges-vod",
+        "urlToImage": null,
+        "publishedAt": "2023-11-27T20:37:24.3882176Z",
+        "content": "Nets star sits down with Taylor Rooks for exclusive convo."
+      }
+    ]
+  }
